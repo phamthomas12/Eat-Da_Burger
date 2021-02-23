@@ -10,7 +10,7 @@ CREATE TABLE burgers (
     PRIMARY KEY (id)
 );
 
-INSERT INTO burgers (burger_name, devoured) VALUES ("Impossible Burger",false);
+INSERT INTO burgers (burger_name, devoured) VALUES ("Impossible Burger");
 INSERT INTO burgers (burger_name, devoured) VALUES ("Classic Burger", true);
 INSERT INTO burgers (burger_name, devoured) VALUES ("Cheeseburger", true);
 INSERT INTO burgers (burger_name, devoured) VALUES ("Chicken Burger", true);
