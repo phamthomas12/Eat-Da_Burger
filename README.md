@@ -10,7 +10,7 @@ Add a Burger Name of the burger you want to eat. Click the 'Submit' button to ad
 
 <img src="./public/assets/img/screenshot.PNG">
 
- ## Installation
+## Installation
 Follow this :link: [Eat Da Burger!](https://blooming-badlands-42754.herokuapp.com/)
 
 Github: https://github.com/phamthomas12
